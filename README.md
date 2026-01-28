@@ -1,73 +1,75 @@
-# Welcome to your Lovable project
+# Password Manager
 
-## Project info
+A modern and secure **Password Manager** web application built with **React**, **TypeScript**, **Vite**, and **Shadcn UI**. This app allows users to securely store, manage, and organize their passwords with a clean and intuitive interface.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## 🚀 Features
 
-There are several ways of editing your application.
+- Add, edit, and delete passwords easily  
+- Secure password storage (local / encrypted)  
+- Clean and responsive UI powered by **Shadcn UI**  
+- Built with modern frontend stack (**React + TypeScript + Vite**)  
+- Lightweight and fast  
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 🛠️ Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Frontend:** React, TypeScript, Vite  
+- **UI Library:** Shadcn UI  
+- **State Management:** React hooks / Context API  
+- **Version Control:** Git & GitHub  
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 📦 Installation
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+1. Clone the repo
 
-Follow these steps:
+```bash
+git clone https://github.com/Feroza25/password-manager.git
+Navigate to the project folder
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+cd password-manager
+Install dependencies
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+npm install
+Start the development server
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
-```
+Open your browser at http://localhost:5173 (Vite default port)
 
-**Edit a file directly in GitHub**
+💡 Usage
+Open the app in the browser
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Add new passwords using the form
 
-**Use GitHub Codespaces**
+View, edit, or delete saved passwords
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+All changes are reflected immediately
 
-## What technologies are used for this project?
+📸 Screenshots / Demo (optional)
+Add screenshots here to showcase your app UI. Example:
 
-This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+📝 Contributing
+Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you’d like to change.
 
-## How can I deploy this project?
+⚡ License
+This project is MIT licensed.
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+💡 **Tips to level this README up for portfolio**  
+1. Add **live demo link** (Vercel/Netlify)  
+2. Add **screenshots or GIFs** showing the UI  
+3. Highlight **security features** (like encrypted storage if implemented)  
+4. Add badges for **Tech stack** and **NPM version**  
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+If you want, I can make an **even prettier version** with **badges, GIFs, and table of features** that will make your GitHub repo look like a **pro developer project** 😎  
+
+Do you want me to do that?
